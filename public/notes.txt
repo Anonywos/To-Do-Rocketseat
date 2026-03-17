@@ -1,0 +1,1 @@
+Pasta public serve para arquivos públicos, como a logo da marca. Qualquer outro arquivo que não deva ser público vai na pasta src/assets
