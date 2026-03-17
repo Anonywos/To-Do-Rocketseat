@@ -39,6 +39,6 @@ Projeto desenvolvido como estudo no curso de nível intermediário de React da p
 
 ```bash
 git clone https://github.com/Anonywos/To-Do-Rocketseat.git
-cd Hair-Day-RocketSeat
+cd To-Do-Rocketseat
 npm install
 npm run dev
